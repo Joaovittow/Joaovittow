@@ -1,3 +1,4 @@
 ### Hi There!👋
 
-Meu nome é João Vitor, sou um jovem apaixonado pelo mundo dos códigos
+My name is João Vitor, I'm a Web Developer, <br>
+This is where the imagination awakens and transforms into codes.💡
