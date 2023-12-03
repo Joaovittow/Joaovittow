@@ -1,4 +1,6 @@
-# Hi There!👋
+# Hi There! :coffee:
+
+![](https://komarev.com/ghpvc/?username=Joaovittow)
 
 <br>
 
@@ -22,3 +24,7 @@ This is where the imagination awakens and transforms into codes.💡
 <a href="https://www.instagram.com/joaovittow/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 <a/>
+
+## Stats :bar_chart:
+
+[![Joaovittow Stats](https://github-readme-stats.vercel.app/api?username=Joaovittow)](https://github.com/anuraghazra/github-readme-stats)
