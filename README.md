@@ -27,4 +27,4 @@ This is where the imagination awakens and transforms into codes.💡
 
 ## Stats :bar_chart:
 
-[![Joaovittow Stats](https://github-readme-stats.vercel.app/api?username=Joaovittow)](https://github.com/anuraghazra/github-readme-stats)
+![Joaovittow stats](https://github-readme-stats.vercel.app/api?username=Joaovittow&show_icons=true&theme=merko)
