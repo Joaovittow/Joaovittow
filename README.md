@@ -28,3 +28,5 @@ This is where the imagination awakens and transforms into codes.💡
 ## Stats :bar_chart:
 
 ![Joaovittow stats](https://github-readme-stats.vercel.app/api?username=Joaovittow&show_icons=true&theme=merko)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaovittow&layout=pie)](https://github.com/Joaovittow/github-readme-stats)
