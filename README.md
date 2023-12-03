@@ -5,7 +5,7 @@
 My name is João Vitor, I'm a Web Developer, <br>
 This is where the imagination awakens and transforms into codes.💡
 
-## Languages ​​and technologies
+## Languages ​​and technologies :computer:
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" /> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
