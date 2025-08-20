@@ -6,7 +6,7 @@
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou João Vitor
  👩🏻‍💻 Sou um desenvolvedor fullstack, criativo e apaixonado por tecnologia.<br>
- 👨‍🎓Cursando Engenharia de Software<br>
+ 👨‍🎓Cursando Desenvolvimento Web<br>
 
 <img align="center" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajluYWwxamo5cGllMjV2bG9zOW9sejZ2NG95bTNta2k4c3d0b29uaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.webp"  />
 </div>
