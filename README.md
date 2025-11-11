@@ -1,5 +1,5 @@
   
-### João Vitor Seixas Nunes ✨
+### João Vitor Seixas Nunes 
 Desenvolvedor FullStack 💻
 
 
@@ -22,7 +22,7 @@ Sou Desenvolvedor FullStack com experiência em JavaScript e TypeScript, constru
 
 
 ### Projetos em Destaque 🚀
-- [DevBurger-Interface](https://github.com/Joaovittow/DevBurger-Interface) — Interface web moderna e responsiva para gestão completa de uma hamburgueria, feita com React e Vite. Inclui autenticação, catálogo, carrinho, checkout com Stripe e painel administrativo. [Fonte](https://github.com/Joaovittow/DevBurger-Interface)
+- [DevBurger-Interface](https://github.com/Joaovittow/DevBurger-Interface) — Interface web moderna e responsiva para gestão completa de uma hamburgueria, feita com React e Vite. Inclui autenticação, catálogo, carrinho, checkout com Stripe e painel administrativo.
 - [fullstackweek-barber](https://github.com/Joaovittow/fullstackweek-barber) — Aplicação fullstack para barbearia, com fluxo de agendamento e gestão de serviços.
 - [finance-interface](https://github.com/Joaovittow/finance-interface) — Aplicação web para controle financeiro pessoal, com foco em receitas, despesas, períodos (meses/quinzenas) e categorias personalizadas.
 
